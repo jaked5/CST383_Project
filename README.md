@@ -52,6 +52,11 @@ By utilizing patterns with these characteristics, we hope to more accurately det
 
 Main characteristics we want to look further into are as follows:
 
-1. <b>year</b> - 
+1. <b>year</b> - different years have different workloads and stress
+2. <b>stud_h</b> - health of students
+3. <b>job</b> - balancing work and education, stress of limited time
+4. <b>amsp</b> - less motivation could lead to more anxiety of falling behind
+5. <b>health</b> - student is in an atmosphere of mental stress constantly
+6. <b>psyt</b> - tangible level of stress
   
 
