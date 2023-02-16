@@ -52,6 +52,6 @@ By utilizing patterns with these characteristics, we hope to more accurately det
 
 Main characteristics we want to look further into are as follows:
 
-* <b>year</b> - 
+1. <b>year</b> - 
   
 
