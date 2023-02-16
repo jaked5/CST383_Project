@@ -1,10 +1,11 @@
 # CST383_Project
+By: Jake Horne, Hamdan Syed, Justin Nguyen
 
 ## Predicting Medical Student Mental Health
 
 The purpose of this project is to ustilize a real world dataset, and compose a question based off of related varaibles. From this question, we hope to create a machine learning model to assist in accurately predicting a predetermined result with accuracy.
 
-### By: Jake Horne, Hamdan Syed, Justin Nguyen
+## Dataset Variables and Explanation
 
 This specific dataset looks at the mental health of medical students in Switzerland, and looks at the mental health of these students at the time of this study. We want to create a machine learning model that looks at the well being of a student, and determines the relationship of key characteristics (of our choosing) to determine the emotional state of these individuals. From there, we want to discen if their are charactersitics that telegraph whether an individual is more susceptible to declining mental health or burnout, and to find these signs early to provide assistance for these students to minimize the adverse effects. The following attributes are used to determine the mental well being of these medical students:
 
