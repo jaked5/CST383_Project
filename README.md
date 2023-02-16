@@ -11,6 +11,7 @@ This specific dataset looks at the mental health of medical students in Switzerl
 </br>
 
 <i>
+  
 * age: Age of the participant. (Integer)
 
 * year: Year of study of the participant. (Integer)
