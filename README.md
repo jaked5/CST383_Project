@@ -49,3 +49,10 @@ This specific dataset looks at the mental health of medical students in Switzerl
 </i>
 
 By utilizing patterns with these characteristics, we hope to more accurately determine whether a particular individual is going through emotional decline or burnout, since the sooner these results are determined, less invasive procedures can be performed and students can minimize the negative consequences of mental stress.
+
+Main characteristics we want to look further into are as follows:
+
+<b>
+  test
+  
+  </b>
