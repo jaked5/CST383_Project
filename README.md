@@ -83,3 +83,7 @@ In our barplots, we found that as the years in medical school increased, the gen
 By adhering to these self imposed construct, we wanted to keep the integrity of the data while being able to determine the relationship between our target variables that we felt related strongly to cesd.
 
 ## Training
+
+For our training model, we had to use a portion of our provided data for the training while the rest would be allocated for the testing of the accuracy of the model. We chose a 30-70 split for training/testing since the size of our dataset did not ere on the smaller end, so did not need to split into small subset test sets. We tried four different approaches, to determine which model provided us the best accuaracy in terms of predictions, and found the best ovearll accuracy in both the training and test accuracy were with the classification tree approach, with 75% ad 53%, respectively.
+
+We used this most accuarate model for the duration of analysis, and built a confusion matrix to see how often our model predicted correctly (true positive, true negative), overestimated (false positive), or underestimated (false negative). In our case, overestimating would be saying someone has depression when in fact their cesd does not reflect that, and underestimating would be registering a cesd score lower than actuality. We further looked at the mse and rmse of both our training and test model to see the accuracy it was predicting at in more detail, as well as their respective r-squared values.
