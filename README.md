@@ -63,5 +63,14 @@ Main characteristics we want to look further into are as follows:
 4. <b>amsp</b> - less motivation could lead to more anxiety of falling behind
 5. <b>health</b> - student is in an atmosphere of mental stress constantly
 6. <b>psyt</b> - tangible level of stress
-  
+
+The main functions we will be using are rmse (root mean squared error), mse (mean squared error), as well as accStatement (used to determine accuracy of model. Using these, we have a metric to determine if our final model is able to predict accurately the mental well being of students not just in our sample, but in future use cases.
+
+## Preprocessing
+
+For our 886 participants, there were no values that were null of void that could lead to discrepancies within the dataset. As such, no columns had to be deleted or removed to account for this. We use describe to have a quick gloss through of the data and keep in mind that the planned value for prediction, or what our machine learning model is centered around is cesd, or the Center for Epidemiologic Studies Depression scale of the participant measured as an integer. This metric is well researched and defined, so we can cross reference to this standard to determine the well being of an individual with a tangible metric.
+
+
+## Graphing
+
 
