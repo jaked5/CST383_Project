@@ -73,4 +73,13 @@ For our 886 participants, there were no values that were null of void that could
 
 ## Graphing
 
+Initially, we got a general view of all our variable variables by using scatterplots, to verify any trends that were not blatantly obvious or initially perceived. Overall, there was no insightful information gleened from these so we fined tuned our models further by grouping variables we were interested in and looking at the relationship between them, as well as the strength of this relationship. 
 
+In our barplots, we found that as the years in medical school increased, the general trend of mental health within students decreased. Now, we wanted to compare these findings with the quantitative emotional values, or our cesd values that are provided externally. The higher the cesd value, the more severe the depression of an individual. We wanted to mask these values onto our previous barplot where we looked at the relationship between years and mental well being so a few changes had to be made to ensure there was no drastic overexaggeration of features:
+
+* CESD is from 0-60, but was formatted to be between 0-4 to have a similar appearance to our previous graph
+* Count and Year axes were preserved
+
+By adhering to these self imposed construct, we wanted to keep the integrity of the data while being able to determine the relationship between our target variables that we felt related strongly to cesd.
+
+## Training
